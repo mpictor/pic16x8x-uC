@@ -1,0 +1,11 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F84</device>
+    <tool>gputils</tool>
+    <files>
+      <item>1wguid.asm</item>
+    </files>
+  </general>
+  <editors/>
+</piklab>
