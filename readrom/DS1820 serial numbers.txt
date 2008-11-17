@@ -1,0 +1,10 @@
+DS1820 serial numbers as read by readROM.bas, 17 nov 08
+readROM.bas compiled with pbc for F84
+
+10A10B4D0000009D
+10F9454D00000059
+109D524D0000006B
+109C054D00000098
+
+
+
