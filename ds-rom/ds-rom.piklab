@@ -1,0 +1,14 @@
+<!DOCTYPE piklab>
+<piklab>
+  <general>
+    <device>16F84</device>
+    <tool>gputils</tool>
+    <files>
+      <item>ds-rom.asm</item>
+    </files>
+    <watched_registers>
+      <item>9 2 </item>
+    </watched_registers>
+  </general>
+  <editors/>
+</piklab>
